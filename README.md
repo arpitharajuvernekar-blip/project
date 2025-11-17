@@ -1,2 +1,2 @@
 # project
-hoo
+hello this isy first repo....yayyy
